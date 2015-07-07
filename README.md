@@ -5,7 +5,7 @@ But it does have a little policy in it, and enough people have been [talking abo
 
 Right now all that's here is this readme and the summary file, which really is enough for the book. I would love to see this become more detailed over time, so if you'd like to add a file with ideas, details or notes on any specific topic, please do so.
 
-Initial ideas here are based on contributions from myself, Anat Shenker-Osorio and Ryan Clayton. If you'd like to contribute and you're familiar with github, I look forward to your pull requests! If you'd like to contribute and aren't familiar with github, the documentation on the site is terribly helpful. If you have any questions about this or anything else, please don't hesitate to drop me an email at dfa2063@gmail.com.
+Initial ideas here are based on contributions from myself, Isaiah J. Poole, Anat Shenker-Osorio and Ryan Clayton. If you'd like to contribute and you're familiar with github, I look forward to your pull requests! If you'd like to contribute and aren't familiar with github, the documentation on the site is terribly helpful. If you have any questions about this or anything else, please don't hesitate to drop me an email at dfa2063@gmail.com.
 
 ## Resources:
 
