@@ -1,5 +1,5 @@
 1 We the People Restoration Act
-reflective democracy, public campaign financing, framework for democracy experiments, goals/tracking/feedback
+reflective democracy, public campaign financing, framework for democracy experiments, goals/tracking/feedback, scenario modeling
 
 2 Purpose of Work Act
 make corporate tax rate a function of social utility and pay inequality, accounting for externalities, work rules, co-ops, b corps, fair trade, incentives for union formation & co-ops
@@ -24,3 +24,9 @@ funding for research, art and all levels of schools
 
 9 Common Sense Taxation Act
 returns on venture capital taxes, corporate merger transaction tax, financial transaction tax, real estate transfer tax, repeal of prop 13 for corporate property
+
+Other ideas -
+
+Get Realignment Right Act (via Eric Lotke)
+
+Don't decarcerate by sending people from state prisons to local jails. Decarcerate by sending people to local community-based programs, or leaving them alone.
