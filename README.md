@@ -22,4 +22,5 @@ http://www.policylink.org/
 http://www.rooseveltinstitute.org/ & http://www.rewritetherules.org/  
 http://progressiveagenda.us/  
 http://www.geodesignsummit.com/  
-https://www.americanprogress.org/
+https://www.americanprogress.org/  
+https://stateinnovation.org/
