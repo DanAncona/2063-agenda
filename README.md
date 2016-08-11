@@ -24,6 +24,7 @@ http://progressiveagenda.us/
 http://www.geodesignsummit.com/  
 https://www.americanprogress.org/  
 https://stateinnovation.org/
+http://democracycollaborative.org & http://thenextsystem.org
 
 
 ## Education Groups
